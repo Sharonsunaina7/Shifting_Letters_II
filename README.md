@@ -1,4 +1,4 @@
-# shifting_letters
+# Shifting_Letters
 2381. Shifting Letters
 
 Here’s a step-by-step explanation and solution to solve **2381. Shifting Letters II**:
